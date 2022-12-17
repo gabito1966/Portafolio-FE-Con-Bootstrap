@@ -32,18 +32,26 @@ h3.intro{
 }
 
 h1.intro{
-    font-size: 4rem;
+    font-size: 4.5rem;
 }
 
 h2.intro{
     font-size: 3rem;
 }
 
-
 .perfil {
-    width: 240px;
-    height: 240px;
+    width: 200px;
+    height: 200px;
     background-color: transparent;
+}
+
+section.experiencia{
+    background-image: url(/assets/img/carbon_fibre.png);
+
+}
+.logo-empresa{
+    width: 100%;
+    
 }
 
 .tarjetas:hover {
