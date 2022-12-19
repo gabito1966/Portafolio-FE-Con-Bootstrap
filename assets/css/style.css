@@ -40,9 +40,12 @@ h2.intro{
 }
 
 .perfil {
-    width: 200px;
-    height: 200px;
-    background-color: transparent;
+    width: 70%;
+    
+}
+.dashboard{
+    width: 50%;
+    
 }
 
 section.experiencia{
@@ -84,7 +87,7 @@ section.experiencia{
 }
 
 .foto-proyecto:hover {
-    transform: scale(1.2);
+    transform: scale(1.1);
     cursor: pointer;
 }
 
@@ -99,6 +102,22 @@ section.experiencia{
     transform: scale(1.1);
     color: #aa4b6b;
     cursor: pointer;
+}
+.login {
+    height: 75vh;
+}
+
+.formulario-login{
+    margin-top: 10%;
+}
+.form-label{
+    color: #FFFFFF;
+    font-size: 1.5rem;
+}
+
+.link{
+    text-decoration: none;
+    color: #FFFFFF;
 }
 
 
