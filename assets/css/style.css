@@ -14,6 +14,7 @@ body {
     cursor: pointer;
 }
 
+
 section.banner {
     background-image: linear-gradient(
         rgba(0,0,0,0.2),
@@ -90,9 +91,13 @@ section.experiencia{
     transform: scale(1.1);
     cursor: pointer;
 }
+.proyectos{
+    padding-bottom: 3rem;
+}
 
 #footer{
     width: 100%;
+    
     text-align: center;
     font-weight: bold;
     
@@ -115,9 +120,37 @@ section.experiencia{
     font-size: 1.5rem;
 }
 
-.link{
-    text-decoration: none;
+
+nav.vertical{
+    float: left;
+    margin-left: 0.5rem;
+    margin-top: 1rem;
+    align-items: center;
+}
+
+li.vertical{
+    display: block;
+    margin: 0;
+    writing-mode: vertical;
+    padding:1.5rem 0;
+    font-size: 2rem;
+}
+
+.tab-content{
+    font-size: 2rem;
     color: #FFFFFF;
 }
 
+.last{
+    padding-bottom: 5rem;
+}
+
+.footer-dashboard{
+    width: 100%;
+    height: 5%;
+    text-align: center;
+    font-weight: bold;
+    position: fixed;
+    bottom: 0;
+}
 
