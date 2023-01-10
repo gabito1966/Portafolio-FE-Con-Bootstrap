@@ -59,7 +59,7 @@ section.experiencia{
 }
 
 .tarjetas:hover {
-    transform: scale(1.2);
+    transform: translate(0, -50px);
     cursor: pointer;
 }
 
@@ -91,8 +91,8 @@ section.experiencia{
 }
 
 .card-border:hover {
-    transform: scale(1.1);
-    cursor:pointer;
+    transform: translate(0, -50px);
+        cursor: pointer;
 }
 
 .card-body {
@@ -104,8 +104,8 @@ section.experiencia{
 }
 
 .foto-proyecto:hover {
-    transform: scale(1.1);
-    cursor: pointer;
+    transform: translate(100px, 0);
+        cursor: pointer;
 }
 .proyectos{
     padding-bottom: 3rem;
@@ -113,7 +113,7 @@ section.experiencia{
 
 #footer{
     width: 100%;
-    
+    background-image: url(/assets/img/carbon_fibre.png);
     text-align: center;
     font-weight: bold;
     
