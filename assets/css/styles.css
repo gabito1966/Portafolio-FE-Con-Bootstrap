@@ -115,13 +115,11 @@ section.experiencia{
     background-image: url(/assets/img/carbon_fibre.png);
     text-align: center;
     font-weight: bold;
-    
-    
 }
+
 
 #footer:hover{
     transform: scale(1.1);
-    color: #aa4b6b;
     cursor: pointer;
 }
 .login {
@@ -166,6 +164,7 @@ li.vertical{
     height: 5%;
     text-align: center;
     font-weight: bold;
+    background-image: url(/assets/img/carbon_fibre.png);
     position: fixed;
     bottom: 0;
 }
