@@ -10,7 +10,6 @@ body {
 
 .list-group-item:hover {
     transform: scale(1.1);
-    color: #aa4b6b !important;
     cursor: pointer;
 }
 
@@ -92,7 +91,7 @@ section.experiencia{
 
 .card-border:hover {
     transform: translate(0, -50px);
-        cursor: pointer;
+    cursor: pointer;
 }
 
 .card-body {
@@ -105,7 +104,7 @@ section.experiencia{
 
 .foto-proyecto:hover {
     transform: translate(100px, 0);
-        cursor: pointer;
+    cursor: pointer;
 }
 .proyectos{
     padding-bottom: 3rem;
@@ -116,6 +115,7 @@ section.experiencia{
     background-image: url(/assets/img/carbon_fibre.png);
     text-align: center;
     font-weight: bold;
+    
     
 }
 
