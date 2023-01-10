@@ -69,6 +69,22 @@ section.experiencia{
     height: 20px;
 }
 
+.card-body  {
+    background-image: url(/assets/img/carbon_fibre.png);
+}
+
+.card-img-top-estudios {
+    height: 300px;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
 .card-border {
     border: solid 5px #000000;
     border-radius: 2px;
