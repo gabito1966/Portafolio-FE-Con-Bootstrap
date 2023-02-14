@@ -38,14 +38,27 @@ h1.intro{
 h2.intro{
     font-size: 3rem;
 }
+#text-presentacion{
+    font-size: 1.5rem;
+}
 
 .perfil {
     width: 70%;
     
 }
+
+.btn-right{
+    color: #FFFFFF;
+    text-decoration: none;
+    text-align: end;
+}
+
 .dashboard{
-    width: 50%;
-    
+    width: 50%; 
+}
+section{
+    border: 2px solid transparent;
+    border-radius: 20px;
 }
 
 section.experiencia{
@@ -168,4 +181,5 @@ li.vertical{
     position: fixed;
     bottom: 0;
 }
+
 
